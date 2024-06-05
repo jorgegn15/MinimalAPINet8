@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CmZUMybQrWjCF7jGIezOJNVmt0oFVM5zGwtRhxrPS8JRDtx6tKRDDGnk5WWKX1jqIV564fhq+vb43OzpD0LKQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalAPINet8\\MinimalAPINet8\\MinimalAPINet8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
